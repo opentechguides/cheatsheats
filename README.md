@@ -1,4 +1,4 @@
-# visit www.opentechguides.com for the following cheatsheets.
+# Visit <a href="www.opentechguides.com">Open Tech Guides</a> for the following cheatsheets.
 
 1. <a href="https://www.opentechguides.com/how-to/article/oracle/137/oracle-dba-guide.html">Orace DBA cheatsheet</a>
 2. <a href="https://www.opentechguides.com/how-to/article/ubuntu/135/ubuntu-cheatsheet.html">Ubuntu cheatsheet</a>
